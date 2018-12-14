@@ -30,4 +30,4 @@ try{
 > - url - url of the HTML page
 > - filePath - the path of PDF file to be generated. If not provided a PDF file with random name is generated in the current directory.
 
-** NOTE: one of `htmlStr` and `url` are mandatory parameter. Either one of these two should be passed. **
+**NOTE: one of `htmlStr` and `url` are mandatory parameter. Either one of these two should be passed.**
