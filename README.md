@@ -8,7 +8,7 @@ This library generates PDF file of an HTML page.
 npm install --save git+https://github.com/sibu-github/html2pdf.git
 ```
 
-##Usage
+## Usage
 
 ```
 const generatePDF = require("html2pdf");
@@ -22,7 +22,7 @@ try{
 }
 ```
 
-##Parameters
+## Parameters
 
 > generatePDF function takes 3 optional parameters
 >
@@ -30,4 +30,4 @@ try{
 > - url - url of the HTML page
 > - filePath - the path of PDF file to be generated. If not provided a PDF file with random name is generated in the current directory.
 
-> \*\*NOTE: one of `htmlStr` and `url` are mandatory parameter. Either one of these two should be passed.\*\*
+** NOTE: one of `htmlStr` and `url` are mandatory parameter. Either one of these two should be passed. **
