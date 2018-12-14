@@ -1,0 +1,22 @@
+{
+  "name": "html2pdf",
+  "version": "1.0.0",
+  "description": "HTML to PDF generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sibu-github/html2pdf.git"
+  },
+  "keywords": [
+    "htmltopdf"
+  ],
+  "author": "Sibaprasad Maiti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sibu-github/html2pdf/issues"
+  },
+  "homepage": "https://github.com/sibu-github/html2pdf#readme"
+}
